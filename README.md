@@ -84,7 +84,7 @@ The PINN model achieved a mean squared error (MSE) loss of 0.19. Below are some 
 
 The model predicts temperature in Kelvin, time in seconds, and X in metres. Below are some visualizations of the results.
 
-![Exact vs Predicted Temperature](visualisation/final_results/Temp_Pred_VS_Exact.png)
+![Exact vs Predicted Temperature](visualisation/final_result/Temp_Pred_VS_Exact.png)
 
 *Scatter plot of exact vs predicted temperatures.*
 
