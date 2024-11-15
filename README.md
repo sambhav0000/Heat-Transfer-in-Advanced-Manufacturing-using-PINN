@@ -88,29 +88,29 @@ The model predicts temperature in Kelvin, time in seconds, and X in metres. Belo
 
 *Scatter plot of exact vs predicted temperatures.*
 
-![Residuals](visualisation/final_results/Residuals_Tem_Pred.png)
+![Residuals](visualisation/final_result/Residuals_Tem_Pred.png)
 
 *Residual plot (Exact - Predicted temperatures).*
 
-![Temperature Distribution](visualisation/final_results/Scatter_Plot.png)
+![Temperature Distribution](visualisation/final_result/Scatter_Plot.png)
 
 *Temperature distribution over time.*
 
 These are the training loss curves for various different parametres:
 
-![Training Loss Curve (Cont. LR)](visualisation/final_results/TrainingLossCurve_0.001_HL=8_HN=200.png)
+![Training Loss Curve (Cont. LR)](visualisation/final_result/TrainingLossCurve_0.001_HL=8_HN=200.png)
 
 *Training Loss Curve for constant LR = 0.001*
 
-![Training Loss Curve (Expo. Decayed LR)](visualisation/final_results/TrainingLossCurve_LR=expo.png)
+![Training Loss Curve (Expo. Decayed LR)](visualisation/final_result/TrainingLossCurve_LR=expo.png)
 
 *Training Loss Curve for exponentially decayed LR*
 
-![Training Loss Curve (Cosine Decayed LR)](visualisation/final_results/TrainingLossCurve_LR=cosine.png)
+![Training Loss Curve (Cosine Decayed LR)](visualisation/final_result/TrainingLossCurve_LR=cosine.png)
 
 *Training Loss Curve for cosine decayed LR*
 
-![Training Loss Curve (Polynomial Decayed LR)](visualisation/final_results/TrainingLossCurve_LR=polynomial.png)
+![Training Loss Curve (Polynomial Decayed LR)](visualisation/final_result/TrainingLossCurve_LR=polynomial.png)
 
 *Training Loss Curve for polynomial(deg=2) decayed LR*
 
